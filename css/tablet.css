@@ -1,0 +1,10 @@
+.body-cards__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.plans-container__slider {
+    justify-content: center;
+}
